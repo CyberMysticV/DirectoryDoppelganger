@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Veeam_Test_Solution/1.0.0": {
+        "runtime": {
+          "Veeam_Test_Solution.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Veeam_Test_Solution/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
